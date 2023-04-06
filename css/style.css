@@ -15,22 +15,7 @@ header {
     float: left;
     padding: 20px;
     width: 100%;
-    display: block; 
 }
-/*h1の右にheader-captionを配置*/
-h1 {
-    float: left;
-
-
-
-
-
-
-/*h2を真ん中に*/
-h2 {
-    text-align: center;
-}
-
 
 
 
