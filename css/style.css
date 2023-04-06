@@ -8,16 +8,11 @@ body {
     background-position: center top;
 }
 
-/*ヘッダーの要素を横並びにする*/
-header {
+/*h1の右にheader-captionとsarch-areaとtag-areaを配置*/
+h1 {
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    padding: 0 20px;
 }
-
-
-
 
 
 /*h2を真ん中に*/
