@@ -9,9 +9,12 @@ body {
 }
 
 /*headerのfloatをleftにする*/
+/*headerの横幅を100%にする*/
+
 header {
     float: left;
     padding: 20px;
+    width: 100%;
 }
 /*h1の右にheader-captionを配置*/
 h1 {
