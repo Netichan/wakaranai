@@ -14,7 +14,7 @@ header {
 }
 /*h1の右にheader-captionを配置*/
 h1 {
-    float: right;
+    float: left;
 }
 
 
