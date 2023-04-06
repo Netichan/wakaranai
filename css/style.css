@@ -7,7 +7,7 @@ body {
     background-repeat: repeat;
     background-position: center top;
 }
-/*h1の右にheader-captionを配置*/
+/*h1のすぐ右にheader-captionを配置*/
 h1 {
     position: relative;
 }
@@ -16,6 +16,8 @@ h1 {
     top: 0;
     right: 0;
 }
+
+
 
 
 /*h2を真ん中に*/
