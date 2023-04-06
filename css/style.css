@@ -20,10 +20,7 @@ h1 {
 header .header-caption {
     float: left;
 }
-/*header-captionのmarginを0にする*/
-header .header-caption {
-    margin: 0;
-}
+
 
 
 
