@@ -18,7 +18,7 @@ h1 {
 }
 /*header-captionの右にsearch-areaを配置*/
 header-caption {
-    float: left;
+    float: right;
 }
 
 
