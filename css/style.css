@@ -24,63 +24,6 @@ header .header-caption {
 header .header-caption {
     margin: 0;
 }
-/*header-captionのpaddingを0にする*/
-header .header-caption {
-    padding: 0;
-}
-/*header-captionのmargin-leftを10pxにする*/
-header .header-caption {
-    margin-left: 10px;
-}
-/*header-captionのpadding-leftを10pxにする*/
-header .header-caption {
-    padding-left: 10px;
-}
-/*header-captionのborder-leftを1px solid #000にする*/
-header .header-caption {
-    border-left: 1px solid #000;
-}
-/*header-captionのfont-sizeを12pxにする*/
-header .header-caption {
-    font-size: 12px;
-}
-/*header-captionのline-heightを1.5にする*/
-header .header-caption {
-    line-height: 1.5;
-}
-/*header-captionのfont-familyを"ＭＳ ゴシック"にする*/
-header .header-caption {
-    font-family: "ＭＳ ゴシック";
-}
-/*header-captionのfont-weightをboldにする*/
-header .header-caption {
-    font-weight: bold;
-}
-/*header-captionのcolorを#000にする*/
-header .header-caption {
-    color: #000;
-}
-/*header-captionのtext-alignをrightにする*/
-header .header-caption {
-    text-align: right;
-}
-/*header-captionのwidthを100%にする*/
-header .header-caption {
-    width: 100%;
-}
-/*header-captionのheightを100%にする*/
-header .header-caption {
-    height: 100%;
-}
-/*header-captionのmargin-topを10pxにする*/
-header .header-caption {
-    margin-top: 10px;
-}
-/*header-captionのpadding-topを10pxにする*/
-header .header-caption {
-    padding-top: 10px;
-}
-/*header-captionのborder-topを1px solid #000にする*/
 
 
 
