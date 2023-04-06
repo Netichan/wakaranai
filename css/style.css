@@ -16,6 +16,10 @@ header-inner {
 h1 {
     float: left;
 }
+/*header-captionの右にsearch-areaを配置*/
+header-caption {
+    float: left;
+}
 
 
 
