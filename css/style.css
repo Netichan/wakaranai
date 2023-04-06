@@ -17,12 +17,8 @@ header-inner {
 h1 {
     float: left;
 }
-.logo{
-    padding: 40px;
-}
-/*header-captionを右に配置*/
-header-caption {
-    text-align: right;
+nav{
+    float: right;
     padding: 20px;
 }
 
