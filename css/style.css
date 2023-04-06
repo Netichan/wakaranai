@@ -8,11 +8,11 @@ body {
     background-position: center top;
 }
 
-/*h1の右にheader-captionとsarch-areaとtag-areaを配置*/
-h1 {
-    display: flex;
-    justify-content: space-between;
+/*headerのfloatをleftにする*/
+header {
+    float: left;
 }
+
 
 
 /*h2を真ん中に*/
