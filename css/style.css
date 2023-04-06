@@ -11,15 +11,21 @@ body {
 /*headerのfloatをleftにする*/
 header-inner {
     float: left;
+    padding: 20px;
 }
 /*h1の右にheader-captionを配置*/
 h1 {
     float: left;
 }
-/*header-captionのfloatをrightにする*/
+.logo{
+    padding: 40px;
+}
+/*header-captionを右に配置*/
 header-caption {
     float: right;
+    padding: 20px;
 }
+
 
 
 
