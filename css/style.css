@@ -7,6 +7,10 @@ body {
     background-repeat: repeat;
     background-position: center top;
 }
+/*main-captionを右寄せに*/
+.main-caption {
+    text-align: right;
+}
 
 /*h2を真ん中に*/
 h2 {
