@@ -22,7 +22,7 @@ h1 {
 }
 /*header-captionを右に配置*/
 header-caption {
-    float: right;
+    text-align: right;
     padding: 20px;
 }
 
