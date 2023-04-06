@@ -7,10 +7,7 @@ body {
     background-repeat: repeat;
     background-position: center top;
 }
-/*h1を真ん中に*/
-h1 {
-    text-align: center;
-}
+
 /*h2を真ん中に*/
 h2 {
     text-align: center;
