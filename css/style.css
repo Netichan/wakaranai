@@ -15,16 +15,11 @@ header {
     float: left;
     padding: 20px;
     width: 100%;
+    display: block; 
 }
 /*h1の右にheader-captionを配置*/
 h1 {
     float: left;
-}
-nav{
-    float: right;
-    padding: 20px;
-}
-
 
 
 
