@@ -9,7 +9,7 @@ body {
 }
 
 /*headerのfloatをleftにする*/
-header {
+header-inner {
     float: left;
 }
 /*h1の右にheader-captionを配置*/
