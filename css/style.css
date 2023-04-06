@@ -17,6 +17,9 @@ header {
     width: 100%;
     background-color: #ffffff;
 }
+li{
+    list-style: none;
+}
 
 
 
